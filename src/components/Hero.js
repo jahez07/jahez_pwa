@@ -1,4 +1,6 @@
-import { styles } from "./style";
+import { motion } from "framer-motion";
+
+import { styles } from "../style";
 
 const Hero = () => {
   return (
